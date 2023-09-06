@@ -1,0 +1,113 @@
+h1{
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    text-decoration: underline;
+    text-align: center;
+}
+body {
+    background-image: linear-gradient(to  bottom, #253659, #03A696);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px;
+}
+.nav{
+    width: 100% ;
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    color: #ffffff;
+    font-size:x-large;
+    display: flex;
+    background-color: #F27457;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+.pag{
+    display: flex;
+    flex-direction: column;
+    background-color: #04BF9D;
+    padding: 40px;
+    border-radius: 10px;
+}
+.principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-block-start: 13px;
+}
+i{
+    text-align: center;
+    color:#ffffff;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+.nav-item{
+    padding: 30px;
+}
+.pag3{
+    display: flex;
+    flex-direction: row;
+    background-color: #04BF9D;
+    padding: 40px;
+    border-radius: 10px;
+    justify-content:space-around;
+}
+.his{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    justify-content: center;
+    background-color: #BF665E;
+    border-radius: 10px;
+    text-align: center;
+    color:#ffffff;
+    font-size: x-large;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.pag2{
+    display: flex;
+    flex-direction: column;
+    background-color: #04BF9D;
+    border-radius: 10px;
+    padding: 100px;
+    width: 150px;
+}
+
+.input{
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    margin-left: 50px;
+
+    margin-top: 15px;
+}
+.linhas{
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.secundaria{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-block-start: 13px;
+}
